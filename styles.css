@@ -1,0 +1,74 @@
+header {
+    background: #333;
+    background-color:#F2C1AE;
+    padding: 10px 20px;
+}
+
+header .logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #384C73
+ 
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: px 50px 75px 100px;
+
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+    margin: 50px 75px 100px;
+}
+
+nav ul li a {
+    color: #384C73;
+    text-decoration: none;
+    margin:  50px 75px 100px;
+    font-weight: bold;}
+  
+  
+    body {
+        font-family: Arial, sans-serif;
+        background-color: white;
+        color:#384c73;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+    }
+
+    div.gallery {
+        margin: 15px;
+        border: 1px solid #ccc;
+        float: left;
+        width: 250px;
+      }
+      
+      div.gallery:hover {
+        border: 6px solid #777;
+      }
+      
+      div.gallery img {
+        width: 100%;
+        height: auto;
+      }
+      
+      div.desc {
+        padding: 15px;
+        text-align: center;
+      }
+    footer{
+      width: 100%;
+      bottom: 0;
+      position: fixed;
+      left: 0;
+      height: 50px;
+      background-color: #F2C1AE
+    }
+
+
+
+    

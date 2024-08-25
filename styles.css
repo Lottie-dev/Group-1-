@@ -4,7 +4,12 @@ header {
     padding: 10px 20px;
     max-width: 500px;
 }
-
+}
+.display-1 {Color:#384C73}
+.accordion {
+  --bs-accordion-active-bg: #384C73;
+  --bs-accordion-active-color:#F2C1AE ;
+}
 header .logo {
     font-size: 24px;
     font-weight: bold;
